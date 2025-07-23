@@ -1,0 +1,55 @@
+Я думаю тебе понравится этот торрент!
+
+Чтобы просмотреть это, вам нужно будет открыть его с помощью μTorrent Web на вашем настольном компьютере.
+
+Если у вас нет μTorrent Web, вам будет предложено сначала установить его. После того, как вы закончите установку, он автоматически начнет загрузку файла.
+
+Наслаждаться!
+
+https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Acadbe4196543de0906e6a7a57f0455470c34cb3b%26dn%3DMicrosoft%2520Windows%252010%252c%2520version%252022H2%252c%2520build%252019045.2251%2520(updated%2520November%25202022)%2520-%2520%25d0%259e%25d1%2580%25d0%25b8%25d0%25b3%25d0%25b8%25d0%25bd%25d0%25b0%25d0%25bb%25d1%258c%25d0%25bd%25d1%258b%25d0%25b5%2520%25d0%25be%25d0%25b1%25d1%2580%25d0%25b0%25d0%25b7%25d1%258b%2520%25d0%25be%25d1%2582%2520Microsoft%2520MSDN%2520%255bRu%255d%26tr%3Dhttp%253a%252f%252fbt.t-ru.org%252fann
+
+#include <iostream>
+int main() {
+int a,b;
+cin >> a >> b;
+//TODO: вычислить площадь 
+	и вывести на консоль
+}
+int a =25;
+cout << a/7 <<endl;//Целочисленный результат 2
+cout << a/9 <<end;//Целочисленный результат 3
+int a=15 << a/2.0 <<endl; //Дробный результат 7,5
+
+#include <iostream>
+using namespace sdt;
+int main() {
+	cout << (3522+52353) * 23 -
+	(2336*501+23432-6743) *3;
+	
+#include <iostream>
+using namespace std;
+
+int main() {
+int x;
+cin >> x;
+cout << x;
+
+cout << "a=";
+int a;
+cin >>a;
+
+int area = a*a;
+cout>> "Square =";
+cout << area <<endl;
+
+cout <<"Inches = ";
+double inches;
+cin >> inshes;
+double centimeters =inches *2,54;
+ciut "Centimeters =";
+cout << centimeters <<endl;
+
+
+
+
+ 
